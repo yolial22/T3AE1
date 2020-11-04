@@ -1,2 +1,6 @@
 litago
+<<<<<<< HEAD
 user2
+=======
+user1
+>>>>>>> origin/master
